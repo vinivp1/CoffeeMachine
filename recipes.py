@@ -24,12 +24,10 @@ MENU = {
     }
 }
 
+cash = 0
+
 resources = {
     "water": 300,
     "milk": 200,
     "coffee": 100,
-}
-
-cash = {
-    "money" : 0.0,
 }
